@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-memory-game/static/css/main.ea65fa93.chunk.css",
+    "main.js": "/react-memory-game/static/js/main.8d6bd198.chunk.js",
+    "main.js.map": "/react-memory-game/static/js/main.8d6bd198.chunk.js.map",
+    "runtime-main.js": "/react-memory-game/static/js/runtime-main.1033acb8.js",
+    "runtime-main.js.map": "/react-memory-game/static/js/runtime-main.1033acb8.js.map",
+    "static/js/2.180c9533.chunk.js": "/react-memory-game/static/js/2.180c9533.chunk.js",
+    "static/js/2.180c9533.chunk.js.map": "/react-memory-game/static/js/2.180c9533.chunk.js.map",
+    "index.html": "/react-memory-game/index.html",
+    "static/css/main.ea65fa93.chunk.css.map": "/react-memory-game/static/css/main.ea65fa93.chunk.css.map",
+    "static/js/2.180c9533.chunk.js.LICENSE.txt": "/react-memory-game/static/js/2.180c9533.chunk.js.LICENSE.txt",
+    "static/media/Barnie.3ef51fc7.jpg": "/react-memory-game/static/media/Barnie.3ef51fc7.jpg",
+    "static/media/Family.7bf5704d.jpg": "/react-memory-game/static/media/Family.7bf5704d.jpg",
+    "static/media/Homero.569b60e5.jpg": "/react-memory-game/static/media/Homero.569b60e5.jpg",
+    "static/media/Lisa.af287fee.jpg": "/react-memory-game/static/media/Lisa.af287fee.jpg",
+    "static/media/Logo.0cc6634b.png": "/react-memory-game/static/media/Logo.0cc6634b.png",
+    "static/media/Nelson.318fdead.jpg": "/react-memory-game/static/media/Nelson.318fdead.jpg",
+    "static/media/App.css": "/react-memory-game/static/media/Sky0.1bea8b6a.jpg",
+    "static/media/Snake.4c9e7518.jpg": "/react-memory-game/static/media/Snake.4c9e7518.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1033acb8.js",
+    "static/js/2.180c9533.chunk.js",
+    "static/css/main.ea65fa93.chunk.css",
+    "static/js/main.8d6bd198.chunk.js"
+  ]
+}
